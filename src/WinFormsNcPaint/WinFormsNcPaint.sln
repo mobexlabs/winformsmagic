@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoThemeApp", "NoThemeApp\No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerDrawnTitleBar", "OwnerDrawnTitleBar\OwnerDrawnTitleBar.csproj", "{8BE2CF10-E5C3-443B-9F06-F7E6B6B6C04A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerDrawnWindow", "OwnerDrawnWindow\OwnerDrawnWindow.csproj", "{7396E82A-12AD-41AF-ACA1-0912EEC92948}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8BE2CF10-E5C3-443B-9F06-F7E6B6B6C04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE2CF10-E5C3-443B-9F06-F7E6B6B6C04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE2CF10-E5C3-443B-9F06-F7E6B6B6C04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7396E82A-12AD-41AF-ACA1-0912EEC92948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7396E82A-12AD-41AF-ACA1-0912EEC92948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7396E82A-12AD-41AF-ACA1-0912EEC92948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7396E82A-12AD-41AF-ACA1-0912EEC92948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
